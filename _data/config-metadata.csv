@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,Title,,
+publisher,Publisher,,
+series,Series,,
+volume,Volume,,
+issue,Issue,TRUE,
+date,Publishing Date,,
+covercharacters,Notable Characters on the Cover,TRUE,
+binder,Binder Number,,
+bindersec,Section of Binder,,
+barcode,Barcode Number,,
+callnum,Call Number,,
+picturecreds,Picture Credits,,
+copies,Copies,,
+rightsholder,Rights Statement,,TRUE
