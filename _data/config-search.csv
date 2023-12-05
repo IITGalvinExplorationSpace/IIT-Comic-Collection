@@ -1,7 +1,9 @@
 field,index,display
 title,true,true
+publisher,true,true
+series,true,true
+volume,true,true
+issue,true,true,
 date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+covercharacters,true,true
+binder,true,true
