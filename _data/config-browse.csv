@@ -1,3 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Publishing Date,,,Publishing Date
-covercharacters,Notable Characters on the Cover,TRUE,,
+series,Series,TRUE,,
+date,Date,,,Date
+creator,Creator,,,
+subject,,TRUE,,
+location,,TRUE,,
