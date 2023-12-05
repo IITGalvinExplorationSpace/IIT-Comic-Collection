@@ -1,7 +1,8 @@
 field,display_name,btn,hidden,sort_name
-date,Publishing Date,,,Publishing Date
-series,Series,TRUE,,
+date,Publishing Date,,,true
+series,Series,true,,true
 date,,,,Date
 creator,Creator,,,
 subject,,TRUE,,
 location,,TRUE,,
+publisher,Publisher,true,,true
